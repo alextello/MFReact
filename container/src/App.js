@@ -3,5 +3,5 @@ import MarketingApp from "./components/MarketingApp";
 
 export default () => {
   return <MarketingApp />;
-  //test commit 5 correccion yml
+  //test commit 6 correccion yml
 };
